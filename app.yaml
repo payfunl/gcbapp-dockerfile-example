@@ -1,0 +1,4 @@
+runtime: nodejs8
+
+beta_settings:
+  cloud_sql_instances: payfunl-staging:us-central1:payfunl-staging
